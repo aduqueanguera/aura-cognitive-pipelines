@@ -1,0 +1,12 @@
+/public
+resources/
+
+.vscode
+*.pdf
+lib/
+node_modules/
+_book/
+_tmp*
+.idea
+.hugo_build.lock
+.pytest_cache
